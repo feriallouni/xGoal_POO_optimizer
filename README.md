@@ -65,8 +65,8 @@ cd ./[votre_dossier]
 Installer l'environnement virtuel et les dependances
 ```
 # windows
-virtualenv .venv
-.venv\\Scripts\\activate
+virtualenv appenv
+appenv\\Scripts\\activate
 pip install -r requirements.txt 
 ```
 #### Run
