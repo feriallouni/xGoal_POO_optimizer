@@ -82,12 +82,5 @@ py classifier.py
 ___
 
 
-### Contact
-
-Tu peux visiter mon site pour plus de projets [sportdatalab](https://www.sportdatalab.fr/projects) ou pour me [contacter](https://www.sportdatalab.fr/contact).
-
-### Licence
-
-MIT
 
 
